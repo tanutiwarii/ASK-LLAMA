@@ -4,7 +4,11 @@ from dotenv import load_dotenv
 import os
 from openai import OpenAI
 
+<<<<<<< HEAD
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
+=======
+from langchain.schema import SystemMessage, HumanMessage, AIMessage
+>>>>>>> 8bc9196fcc79896095731875140d1308c918d129
 from langchain_experimental.tools import PythonREPLTool
 from langchain.agents import initialize_agent, AgentType
 from langchain_openai import ChatOpenAI
