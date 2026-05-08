@@ -31,6 +31,13 @@ A comprehensive Streamlit-based AI chatbot application that supports multiple sp
 - **🌿 Branch Management**: Create and manage Git branches
 - **📋 File Operations**: Create, edit, delete, and search files
 
+
+<img width="1440" height="900" alt="Screenshot 2026-05-08 at 4 54 17 PM" src="https://github.com/user-attachments/assets/2f3f8ed3-0b65-4c10-b2eb-d0ba6866f067" />
+
+
+<img width="1440" height="900" alt="Screenshot 2026-05-08 at 4 54 34 PM" src="https://github.com/user-attachments/assets/00807b3f-7fad-457d-bec9-1fc7687d4bcc" />
+
+ 
 ## 🚀 Quick Start
 
 ### 1. **Clone the Repository**
